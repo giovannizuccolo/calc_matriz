@@ -1,6 +1,6 @@
 # Programa para cálculos com Matrizes
 
-O programa solicita valores para preencher duas matrizes 3x3
+O programa solicita valores para preencher duas matrizes 3x3\
 E Após isso realiza cálculos com as matrizes.
 
 
