@@ -3,6 +3,9 @@
 O programa solicita valores para preencher duas matrizes 3x3\
 E Após isso realiza cálculos com as matrizes.
 
+- SOMA
+- SUBTRAÇÃO
+- MULTIPLICAÇÃO
 
 IMPLEMENTAÇÕES FUTURAS:
 - _CALCULAR A MATRIZ INVERSA DE UMA 3X3
