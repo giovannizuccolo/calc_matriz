@@ -72,7 +72,7 @@ int main() {
     scanf("%d", &opcao);        // lendo opção
 
     int matriz_soma[3][3], matriz_diferença[3][3];
-
+    
     if(opcao == 1) {
         printf("---------------\n");
         for (i=0; i < 3; i++) {
