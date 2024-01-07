@@ -67,8 +67,9 @@ int main() {
     printf("---------------\n");
 
 
+    // solicitando opção para cálculos
     printf("Digite uma opção:\n [ 1 ] somar as duas matrizes.\n [ 2 ] subtrair: matriz_um - matriz_dois.\n [ 3 ] subtrair: matriz_dois - matriz_um.\n >>> ");
-    scanf("%d", &opcao);
+    scanf("%d", &opcao);        // lendo opção
 
     int matriz_soma[3][3], matriz_diferença[3][3];
 
